@@ -1,1 +1,2 @@
-# smartcad.github.io
+# SmartCAD
+![image](assets/logo_tr.png)
